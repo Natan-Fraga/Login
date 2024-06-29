@@ -6,6 +6,7 @@ Campo de Usuário: Destinado à inserção do nome de usuário ou email do usuá
 Campo de Senha: Para inserir a senha do usuário.
 Botão de Login: Ao clicar, aciona o processo de autenticação do usuário.
 Ícone de Olho: Permite visualizar ou ocultar a senha digitada.
+
 Observações Importantes:
 
 Apenas para Demonstração: Esta página não está conectada a nenhum sistema real de autenticação. É apenas um exemplo para fins de aprendizado e demonstração.
